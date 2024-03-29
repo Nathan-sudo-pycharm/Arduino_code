@@ -1,4 +1,4 @@
-
+// set servo to 90 degrees
 #include <Servo.h>
 
 #define servoPin A5 // Servo pin

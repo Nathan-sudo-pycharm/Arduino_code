@@ -1,4 +1,4 @@
-
+// code to rotate servo  motor to 90 degrees for 5 secs  wait for 2 secs then go 0degrees, then 180 degrees
 #include <Servo.h>
 
 #define servoPin A5 // Servo pin
